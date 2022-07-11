@@ -1,7 +1,7 @@
 package fanxing;
 /*Arrays工具中的一个静态方法，返回有指定数组支持的固定大小的列表
 List接口中有一个静态方法，返回包含任意元素的不可变列表
-Set接口中有一个方法，返回包含任意数量元素的不可变集合
+Set接口中有一个方法，返回包含任意数量元素的不可变集合666
  */
 import java.util.ArrayList;
 import java.util.Arrays;
